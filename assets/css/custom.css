@@ -38,6 +38,11 @@ body {
 	min-width: 0;
 }
 
+/* News item rows need explicit gap (global blockGap:0 overrides per-block) */
+.wp-block-columns:has(> .wp-block-column[style*="flex-basis:128px"]) {
+	gap: var(--wp--preset--spacing--40) !important;
+}
+
 /* ---------- Equal-height product cards ---------- */
 .at-product-card {
 	display: flex;
