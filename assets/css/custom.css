@@ -12,6 +12,25 @@ body {
 	margin-block-start: 0 !important;
 }
 
+/* ---------- Fixed-width image columns (news thumbnails) ---------- */
+.wp-block-column[style*="flex-basis:128px"] {
+	flex-grow: 0 !important;
+	flex-shrink: 0 !important;
+	max-width: 128px;
+}
+
+.wp-block-column[style*="flex-basis:128px"] .wp-block-image img {
+	width: 128px;
+	height: 128px;
+	object-fit: cover;
+	display: block;
+}
+
+/* ---------- Stat boxes fill width ---------- */
+.wp-block-group[class*="surface-container-low"] > .wp-block-group[style*="border-radius"] {
+	width: 100%;
+}
+
 /* ---------- Material Symbols ---------- */
 .material-symbols-outlined {
 	font-family: 'Material Symbols Outlined';

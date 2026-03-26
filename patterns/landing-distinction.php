@@ -86,24 +86,24 @@
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"45%","verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:45%"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:group {"backgroundColor":"surface-container-low","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|10"},"border":{"radius":"0.25rem"},"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-surface-container-low-background-color has-background" style="border-radius:0.25rem;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"textColor":"primary","style":{"typography":{"fontWeight":"800","fontSize":"var:preset|font-size|headline-md"}},"fontFamily":"headline"} -->
-<p class="has-primary-color has-text-color has-headline-font-family" style="font-size:var(--wp--preset--font-size--headline-md);font-weight:800">99.9%</p>
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:45%"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
+<div class="wp-block-group"><!-- wp:group {"backgroundColor":"surface-container","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|10"},"border":{"radius":"0.25rem"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-surface-container-background-color has-background" style="border-radius:0.25rem;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"center","textColor":"primary","style":{"typography":{"fontWeight":"800","fontSize":"1.875rem"}},"fontFamily":"headline"} -->
+<p class="has-text-align-center has-primary-color has-text-color has-headline-font-family" style="font-size:1.875rem;font-weight:800">99.9%</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"textColor":"on-surface-variant","fontSize":"body-sm","fontFamily":"label"} -->
-<p class="has-on-surface-variant-color has-text-color has-body-sm-font-size has-label-font-family">Uptime Reliability</p>
+<!-- wp:paragraph {"align":"center","textColor":"on-surface-variant","fontSize":"label-md","fontFamily":"label","style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.05em"}}} -->
+<p class="has-text-align-center has-on-surface-variant-color has-text-color has-label-md-font-size has-label-font-family" style="letter-spacing:0.05em;text-transform:uppercase">Uptime Reliability</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"backgroundColor":"surface-container-low","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|10"},"border":{"radius":"0.25rem"},"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-surface-container-low-background-color has-background" style="border-radius:0.25rem;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"textColor":"primary","style":{"typography":{"fontWeight":"800","fontSize":"var:preset|font-size|headline-md"}},"fontFamily":"headline"} -->
-<p class="has-primary-color has-text-color has-headline-font-family" style="font-size:var(--wp--preset--font-size--headline-md);font-weight:800">$2T+</p>
+<!-- wp:group {"backgroundColor":"surface-container","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|10"},"border":{"radius":"0.25rem"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-surface-container-background-color has-background" style="border-radius:0.25rem;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"center","textColor":"secondary","style":{"typography":{"fontWeight":"800","fontSize":"1.875rem"}},"fontFamily":"headline"} -->
+<p class="has-text-align-center has-secondary-color has-text-color has-headline-font-family" style="font-size:1.875rem;font-weight:800">$2T+</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"textColor":"on-surface-variant","fontSize":"body-sm","fontFamily":"label"} -->
-<p class="has-on-surface-variant-color has-text-color has-body-sm-font-size has-label-font-family">Assets Under Mgmt</p>
+<!-- wp:paragraph {"align":"center","textColor":"on-surface-variant","fontSize":"label-md","fontFamily":"label","style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.05em"}}} -->
+<p class="has-text-align-center has-on-surface-variant-color has-text-color has-label-md-font-size has-label-font-family" style="letter-spacing:0.05em;text-transform:uppercase">Assets Under Mgmt</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
