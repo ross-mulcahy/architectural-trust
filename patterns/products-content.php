@@ -6,8 +6,8 @@
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}},"layout":{"type":"constrained","contentSize":"1280px"}} -->
-<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--50)"><!-- wp:cover {"url":"https://images.unsplash.com/photo-1560520653-9e0e4c89eb11?w=800&q=80","dimRatio":70,"overlayColor":"primary","isUserOverlayColor":true,"minHeight":400,"minHeightUnit":"px","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|60","right":"var:preset|spacing|60"},"margin":{"bottom":"var:preset|spacing|60"}},"border":{"radius":"0.25rem"}}} -->
-<div class="wp-block-cover" style="border-radius:0.25rem;min-height:400px;margin-bottom:var(--wp--preset--spacing--60);padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background" alt="" src="https://images.unsplash.com/photo-1560520653-9e0e4c89eb11?w=800&q=80" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}},"textColor":"white","fontSize":"headline-lg","fontFamily":"headline","className":"wp-block-heading"} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--50)"><!-- wp:cover {"url":"https://images.unsplash.com/photo-1560520653-9e0e4c89eb11?w=800&q=80","dimRatio":70,"overlayColor":"primary","isUserOverlayColor":true,"minHeight":400,"minHeightUnit":"px","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|60","right":"var:preset|spacing|60"},"margin":{"bottom":"var:preset|spacing|80"}},"border":{"radius":"0.25rem"}}} -->
+<div class="wp-block-cover" style="border-radius:0.25rem;min-height:400px;margin-bottom:var(--wp--preset--spacing--80);padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background" alt="" src="https://images.unsplash.com/photo-1560520653-9e0e4c89eb11?w=800&q=80" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}},"textColor":"white","fontSize":"headline-lg","fontFamily":"headline","className":"wp-block-heading"} -->
 <h2 class="wp-block-heading has-white-color has-text-color has-headline-lg-font-size has-headline-font-family" style="margin-bottom:var(--wp--preset--spacing--30);font-weight:700;letter-spacing:-0.02em">Elite Mortgages</h2>
 <!-- /wp:heading -->
 
@@ -58,7 +58,7 @@
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|50"},"margin":{"bottom":"var:preset|spacing|60"}}}} -->
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|50"},"margin":{"bottom":"var:preset|spacing|80"}}}} -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"backgroundColor":"surface-container-low","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|30"},"border":{"radius":"0.25rem"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-surface-container-low-background-color has-background" style="border-radius:0.25rem;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"textColor":"primary","fontSize":"headline-sm","fontFamily":"headline","className":"wp-block-heading"} -->
@@ -92,7 +92,7 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|60"},"margin":{"bottom":"var:preset|spacing|60"}}}} -->
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|60"},"margin":{"bottom":"var:preset|spacing|80"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"width":"50%","verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.1em","textTransform":"uppercase"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"textColor":"secondary","fontFamily":"label"} -->
 <p class="has-secondary-color has-text-color has-label-font-family" style="margin-bottom:var(--wp--preset--spacing--20);font-size:0.75rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">The Institutional Edge</p>
@@ -102,7 +102,7 @@
 <h2 class="wp-block-heading has-primary-color has-text-color has-headline-lg-font-size has-headline-font-family" style="margin-bottom:var(--wp--preset--spacing--50);font-weight:800;letter-spacing:-0.03em">Security in Structure, Speed in Execution.</h2>
 <!-- /wp:heading -->
 
-<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontSize":"2rem"}},"textColor":"secondary"} -->
 <p class="has-secondary-color has-text-color" style="font-size:2rem">&#9670;</p>
 <!-- /wp:paragraph -->
