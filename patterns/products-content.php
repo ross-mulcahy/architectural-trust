@@ -38,7 +38,7 @@
 <!-- /wp:columns -->
 
 <!-- wp:list {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"textColor":"primary-fixed","fontSize":"body-sm","className":"wp-block-list"} -->
-<ul class="wp-block-list has-primary-fixed-color has-text-color has-body-sm-font-size"><!-- wp:list-item -->
+<ul class="wp-block-list has-primary-fixed-color has-text-color has-body-sm-font-size" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:list-item -->
 <li>Jumbo and super-jumbo loan programs up to $30M</li>
 <!-- /wp:list-item -->
 
@@ -93,7 +93,7 @@
 <!-- /wp:columns -->
 
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|60"},"margin":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}}} -->
-<div class="wp-block-columns" style="margin-top:var(--wp--preset--spacing--80)"><!-- wp:column {"width":"50%","verticalAlignment":"center"} -->
+<div class="wp-block-columns" style="margin-top:var(--wp--preset--spacing--80);margin-bottom:var(--wp--preset--spacing--80)"><!-- wp:column {"width":"50%","verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.1em","textTransform":"uppercase"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"textColor":"secondary","fontFamily":"label"} -->
 <p class="has-custom-font-size has-secondary-color has-text-color has-label-font-family" style="margin-bottom:var(--wp--preset--spacing--20);font-size:0.75rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">The Institutional Edge</p>
 <!-- /wp:paragraph -->
