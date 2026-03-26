@@ -1,0 +1,322 @@
+/* ==========================================================================
+   Architectural Trust — Custom Styles
+   Effects and utilities that theme.json cannot express.
+   ========================================================================== */
+
+/* ---------- Reset: eliminate gaps between full-width sections ---------- */
+body {
+	margin: 0;
+}
+
+.wp-site-blocks > * + * {
+	margin-block-start: 0 !important;
+}
+
+/* ---------- Material Symbols ---------- */
+.material-symbols-outlined {
+	font-family: 'Material Symbols Outlined';
+	font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+	font-size: 24px;
+	line-height: 1;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+/* ---------- Glass Navigation ---------- */
+.is-style-glass-nav,
+.glass-nav {
+	background: rgba(255, 255, 255, 0.7) !important;
+	backdrop-filter: blur(20px);
+	-webkit-backdrop-filter: blur(20px);
+	position: sticky;
+	top: 0;
+	z-index: 50;
+	box-shadow: 0 32px 32px -4px rgba(0, 15, 60, 0.06);
+}
+
+/* ---------- Ambient Shadow ---------- */
+.is-style-ambient-shadow {
+	box-shadow: 0 32px 32px -4px rgba(0, 15, 60, 0.06);
+}
+
+/* ---------- Ghost Border ---------- */
+.is-style-ghost-border {
+	outline: 1px solid rgba(197, 197, 210, 0.15);
+}
+
+/* ---------- CTA Secondary (Red) ---------- */
+.is-style-cta-secondary .wp-block-button__link {
+	background-color: var(--wp--preset--color--secondary) !important;
+	color: #fff !important;
+}
+
+.is-style-cta-secondary .wp-block-button__link:hover {
+	background-color: var(--wp--preset--color--secondary-container) !important;
+}
+
+/* ---------- CTA Outline ---------- */
+.is-style-cta-outline .wp-block-button__link {
+	background-color: transparent !important;
+	color: var(--wp--preset--color--primary) !important;
+	border: 1px solid var(--wp--preset--color--outline-variant) !important;
+}
+
+.is-style-cta-outline .wp-block-button__link:hover {
+	background-color: var(--wp--preset--color--surface-container-high) !important;
+}
+
+/* ---------- Hero gradient overlays ---------- */
+.hero-overlay-left::after {
+	content: '';
+	position: absolute;
+	inset: 0;
+	background: linear-gradient(to right, var(--wp--preset--color--primary) 0%, rgba(0, 15, 60, 0.8) 50%, transparent 100%);
+	pointer-events: none;
+}
+
+.hero-overlay-surface::after {
+	content: '';
+	position: absolute;
+	inset: 0;
+	background: linear-gradient(to right, var(--wp--preset--color--surface) 0%, rgba(249, 249, 249, 0.8) 50%, transparent 100%);
+	pointer-events: none;
+}
+
+/* ---------- Section Utilities ---------- */
+.at-section-spacing {
+	padding-top: var(--wp--preset--spacing--80);
+	padding-bottom: var(--wp--preset--spacing--80);
+}
+
+.at-label {
+	font-family: var(--wp--preset--font-family--label);
+	font-size: 0.625rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.3em;
+}
+
+.at-border-left-secondary {
+	border-left: 4px solid var(--wp--preset--color--secondary);
+}
+
+.at-border-top-secondary {
+	border-top: 4px solid var(--wp--preset--color--secondary);
+}
+
+/* ---------- Card Hover Effects ---------- */
+.at-card-hover {
+	transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.at-card-hover:hover {
+	background-color: var(--wp--preset--color--surface-container-lowest);
+}
+
+/* ---------- Bento Grid Utilities ---------- */
+.at-bento-grid {
+	display: grid;
+	gap: var(--wp--preset--spacing--50);
+}
+
+.at-bento-grid-3 {
+	grid-template-columns: repeat(3, 1fr);
+}
+
+@media (max-width: 782px) {
+	.at-bento-grid-3 {
+		grid-template-columns: 1fr;
+	}
+}
+
+.at-bento-span-2 {
+	grid-column: span 2;
+}
+
+@media (max-width: 782px) {
+	.at-bento-span-2 {
+		grid-column: span 1;
+	}
+}
+
+/* ---------- Feature Icon Container ---------- */
+.at-icon-container {
+	width: 48px;
+	height: 48px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-shrink: 0;
+}
+
+/* ---------- Financial Data Styling ---------- */
+.at-data-value {
+	font-family: var(--wp--preset--font-family--label);
+	font-weight: 700;
+	letter-spacing: -0.02em;
+}
+
+/* ---------- Article Typography ---------- */
+.at-article-body p {
+	font-size: 1.0625rem;
+	line-height: 1.85;
+	color: var(--wp--preset--color--on-surface-variant);
+}
+
+.at-article-body p:first-of-type::first-letter {
+	font-size: 3.5em;
+	font-weight: 900;
+	float: left;
+	margin-right: 0.75rem;
+	line-height: 0.85;
+	color: var(--wp--preset--color--secondary);
+}
+
+/* ---------- Blockquote Styling ---------- */
+.wp-block-quote.at-pullquote {
+	background-color: var(--wp--preset--color--surface-container-low);
+	border-left: 4px solid var(--wp--preset--color--secondary);
+	padding: var(--wp--preset--spacing--60);
+	position: relative;
+}
+
+.wp-block-quote.at-pullquote::before {
+	content: '\201C';
+	position: absolute;
+	top: 0.5rem;
+	right: 2rem;
+	font-size: 8rem;
+	font-weight: 900;
+	color: var(--wp--preset--color--primary);
+	opacity: 0.05;
+}
+
+/* ---------- Product Card ---------- */
+.at-product-card {
+	background: rgba(255, 255, 255, 0.05);
+	border: 1px solid rgba(255, 255, 255, 0.1);
+	padding: 0.25rem;
+	transition: background 0.3s ease;
+}
+
+.at-product-card:hover {
+	background: rgba(255, 255, 255, 0.1);
+}
+
+/* ---------- News Card ---------- */
+.at-news-thumb {
+	overflow: hidden;
+}
+
+.at-news-thumb img {
+	transition: transform 0.5s ease;
+}
+
+.at-news-thumb:hover img {
+	transform: scale(1.05);
+}
+
+/* ---------- Dashboard Table ---------- */
+.at-table-row {
+	padding: var(--wp--preset--spacing--40) var(--wp--preset--spacing--20);
+	transition: background-color 0.2s ease;
+}
+
+.at-table-row:hover {
+	background-color: rgba(243, 243, 243, 0.5);
+}
+
+/* ---------- Login Form Styling ---------- */
+.at-login-card {
+	box-shadow: 0 32px 32px -4px rgba(0, 15, 60, 0.06);
+}
+
+/* ---------- Responsive Utilities ---------- */
+@media (max-width: 782px) {
+	.at-hide-mobile {
+		display: none !important;
+	}
+}
+
+@media (min-width: 783px) {
+	.at-hide-desktop {
+		display: none !important;
+	}
+}
+
+/* ---------- Cover Block Enhancements ---------- */
+.wp-block-cover.at-hero-cover {
+	min-height: 870px;
+}
+
+.wp-block-cover.at-hero-cover .wp-block-cover__image-background {
+	opacity: 0.4;
+}
+
+.wp-block-cover.at-article-hero {
+	min-height: 614px;
+}
+
+/* ---------- Scrollbar Utility ---------- */
+.at-scrollbar-hide::-webkit-scrollbar {
+	display: none;
+}
+
+.at-scrollbar-hide {
+	-ms-overflow-style: none;
+	scrollbar-width: none;
+}
+
+/* ---------- Category Badge ---------- */
+.at-category-badge {
+	display: inline-block;
+	padding: 0.25rem 0.75rem;
+	font-family: var(--wp--preset--font-family--label);
+	font-size: 0.625rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+}
+
+/* ---------- Grayscale Image Filter ---------- */
+.at-grayscale img {
+	filter: grayscale(1);
+	opacity: 0.2;
+}
+
+/* ---------- Asymmetric Grid ---------- */
+.at-asymmetric-grid {
+	display: grid;
+	grid-template-columns: 1.2fr 0.8fr;
+	gap: 4rem;
+	align-items: center;
+}
+
+@media (max-width: 1024px) {
+	.at-asymmetric-grid {
+		grid-template-columns: 1fr;
+	}
+}
+
+/* ---------- Progress Bar ---------- */
+.at-progress-bar {
+	height: 6px;
+	background: rgba(255, 255, 255, 0.1);
+	border-radius: 999px;
+	overflow: hidden;
+}
+
+.at-progress-bar-fill {
+	height: 100%;
+	background-color: var(--wp--preset--color--secondary);
+	border-radius: 999px;
+}
+
+/* ---------- Animate on Hover ---------- */
+.at-hover-lift {
+	transition: transform 0.3s ease;
+}
+
+.at-hover-lift:hover {
+	transform: translateY(-2px);
+}
