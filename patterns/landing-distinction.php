@@ -11,7 +11,7 @@
 <p class="has-secondary-color has-text-color has-label-md-font-size has-label-font-family" style="margin-bottom:var(--wp--preset--spacing--20);font-weight:600;letter-spacing:0.3em;text-transform:uppercase">THE DISTINCTION</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"textColor":"primary","style":{"typography":{"fontSize":"var:preset|font-size|display-sm","fontWeight":"800","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|60"}},"layout":{"selfStretch":"fixed","flexSize":"800px"}},"fontFamily":"headline","className":"wp-block-heading"} -->
+<!-- wp:heading {"textColor":"primary","style":{"typography":{"fontSize":"var:preset|font-size|display-sm","fontWeight":"800","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|60"}}},"fontFamily":"headline","className":"wp-block-heading"} -->
 <h2 class="wp-block-heading has-primary-color has-text-color has-headline-font-family" style="margin-bottom:var(--wp--preset--spacing--60);font-size:var(--wp--preset--font-size--display-sm);font-weight:800;letter-spacing:-0.02em">Engineering reliability through institutional heritage.</h2>
 <!-- /wp:heading -->
 

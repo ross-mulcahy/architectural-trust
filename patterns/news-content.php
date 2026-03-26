@@ -51,11 +51,11 @@
 <!-- /wp:columns -->
 
 <!-- wp:group {"backgroundColor":"surface-container-low","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"bottom":"var:preset|spacing|60"},"blockGap":"0"},"border":{"radius":"0.25rem"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group has-surface-container-low-background-color has-background" style="border-radius:0.25rem;margin-bottom:var(--wp--preset--spacing--60);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"sizeSlug":"full","style":{"border":{"radius":{"topLeft":"0.25rem","bottomLeft":"0.25rem"}},"layout":{"selfStretch":"fixed","flexSize":"40%"}}} -->
+<div class="wp-block-group has-surface-container-low-background-color has-background" style="border-radius:0.25rem;margin-bottom:var(--wp--preset--spacing--60);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"sizeSlug":"full","style":{"border":{"radius":{"topLeft":"0.25rem","bottomLeft":"0.25rem"}}}} -->
 <figure class="wp-block-image size-full has-custom-border"><img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80" alt="Financial district at dusk" style="border-top-left-radius:0.25rem;border-bottom-left-radius:0.25rem"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|20"},"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.6875rem","fontWeight":"700","letterSpacing":"0.08em","textTransform":"uppercase"}},"textColor":"secondary","fontFamily":"label"} -->
 <p class="has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Macro Outlook</p>
 <!-- /wp:paragraph -->
