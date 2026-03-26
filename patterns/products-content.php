@@ -92,8 +92,8 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|60"},"margin":{"bottom":"var:preset|spacing|80"}}}} -->
-<div class="wp-block-columns"><!-- wp:column {"width":"50%","verticalAlignment":"center"} -->
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|60"},"margin":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}}} -->
+<div class="wp-block-columns" style="margin-top:var(--wp--preset--spacing--80)"><!-- wp:column {"width":"50%","verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.1em","textTransform":"uppercase"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"textColor":"secondary","fontFamily":"label"} -->
 <p class="has-custom-font-size has-secondary-color has-text-color has-label-font-family" style="margin-bottom:var(--wp--preset--spacing--20);font-size:0.75rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">The Institutional Edge</p>
 <!-- /wp:paragraph -->
@@ -152,8 +152,8 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:group {"backgroundColor":"surface-container-high","className":"at-border-left-secondary","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|60","right":"var:preset|spacing|60"}},"border":{"radius":"0.25rem"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group at-border-left-secondary has-surface-container-high-background-color has-background" style="border-radius:0.25rem;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"backgroundColor":"surface-container-high","className":"at-border-left-secondary","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|60","right":"var:preset|spacing|60"},"margin":{"top":"var:preset|spacing|80"}},"border":{"radius":"0.25rem"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group at-border-left-secondary has-surface-container-high-background-color has-background" style="border-radius:0.25rem;margin-top:var(--wp--preset--spacing--80);padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"}},"textColor":"primary","fontSize":"headline-sm","fontFamily":"headline","className":"wp-block-heading"} -->
 <h3 class="wp-block-heading has-primary-color has-text-color has-headline-sm-font-size has-headline-font-family" style="font-weight:700;letter-spacing:-0.02em">Loan Modeling Engine</h3>
 <!-- /wp:heading -->
