@@ -14,7 +14,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"style":{"color":{"text":"#ffffff"},"typography":{"fontSize":"var:preset|font-size|display-sm","fontWeight":"800","letterSpacing":"-0.02em"}},"fontFamily":"headline","className":"wp-block-heading"} -->
-<h2 class="wp-block-heading has-headline-font-family" style="color:#ffffff;font-size:var(--wp--preset--font-size--display-sm);font-weight:800;letter-spacing:-0.02em">Curated Financial Products</h2>
+<h2 class="wp-block-heading has-text-color has-headline-font-family" style="color:#ffffff;font-size:var(--wp--preset--font-size--display-sm);font-weight:800;letter-spacing:-0.02em">Curated Financial Products</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -27,7 +27,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"}},"fontSize":"headline-md","fontFamily":"headline","className":"wp-block-heading"} -->
-<h3 class="wp-block-heading has-headline-md-font-size has-headline-font-family" style="color:#ffffff">Premier Checking</h3>
+<h3 class="wp-block-heading has-text-color has-headline-md-font-size has-headline-font-family" style="color:#ffffff">Premier Checking</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"primary-fixed","fontSize":"body-sm","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
@@ -57,7 +57,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"}},"fontSize":"headline-md","fontFamily":"headline","className":"wp-block-heading"} -->
-<h3 class="wp-block-heading has-headline-md-font-size has-headline-font-family" style="color:#ffffff">Elite Rewards Visa&reg;</h3>
+<h3 class="wp-block-heading has-text-color has-headline-md-font-size has-headline-font-family" style="color:#ffffff">Elite Rewards Visa&reg;</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"primary-fixed","fontSize":"body-sm","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
@@ -87,7 +87,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"}},"fontSize":"headline-md","fontFamily":"headline","className":"wp-block-heading"} -->
-<h3 class="wp-block-heading has-headline-md-font-size has-headline-font-family" style="color:#ffffff">Home Mortgages</h3>
+<h3 class="wp-block-heading has-text-color has-headline-md-font-size has-headline-font-family" style="color:#ffffff">Home Mortgages</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"primary-fixed","fontSize":"body-sm","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->

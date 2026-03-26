@@ -39,7 +39,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"}},"fontSize":"headline-md","fontFamily":"headline","className":"wp-block-heading"} -->
-<h3 class="wp-block-heading has-headline-md-font-size has-headline-font-family" style="color:#ffffff">Market Intel</h3>
+<h3 class="wp-block-heading has-text-color has-headline-md-font-size has-headline-font-family" style="color:#ffffff">Market Intel</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"primary-fixed","fontSize":"body-lg"} -->
