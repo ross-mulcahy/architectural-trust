@@ -23,7 +23,7 @@
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"className":"at-product-card","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|30"},"border":{"radius":"0.25rem","width":"1px","color":"rgba(255,255,255,0.12)"},"dimensions":{"minHeight":"100%"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group at-product-card has-border-color" style="border-color:rgba(255,255,255,0.12);border-width:1px;border-radius:0.25rem;min-height:100%;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"textColor":"primary-fixed-dim","style":{"typography":{"fontSize":"2.5rem","lineHeight":"1"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}}} -->
-<p class="has-primary-fixed-dim-color has-text-color" style="margin-bottom:var(--wp--preset--spacing--20);font-size:2.5rem;line-height:1"><span class="material-symbols-outlined">account_balance_wallet</span></p>
+<p class="has-custom-font-size has-primary-fixed-dim-color has-text-color" style="margin-bottom:var(--wp--preset--spacing--20);font-size:2.5rem;line-height:1"><span class="material-symbols-outlined">account_balance_wallet</span></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"}},"fontSize":"headline-md","fontFamily":"headline","className":"wp-block-heading"} -->
@@ -53,7 +53,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"className":"at-product-card","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|30"},"border":{"radius":"0.25rem","width":"1px","color":"rgba(255,255,255,0.12)"},"dimensions":{"minHeight":"100%"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group at-product-card has-border-color" style="border-color:rgba(255,255,255,0.12);border-width:1px;border-radius:0.25rem;min-height:100%;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"textColor":"primary-fixed-dim","style":{"typography":{"fontSize":"2.5rem","lineHeight":"1"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}}} -->
-<p class="has-primary-fixed-dim-color has-text-color" style="margin-bottom:var(--wp--preset--spacing--20);font-size:2.5rem;line-height:1"><span class="material-symbols-outlined">credit_card</span></p>
+<p class="has-custom-font-size has-primary-fixed-dim-color has-text-color" style="margin-bottom:var(--wp--preset--spacing--20);font-size:2.5rem;line-height:1"><span class="material-symbols-outlined">credit_card</span></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"}},"fontSize":"headline-md","fontFamily":"headline","className":"wp-block-heading"} -->
@@ -83,7 +83,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"className":"at-product-card","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|30"},"border":{"radius":"0.25rem","width":"1px","color":"rgba(255,255,255,0.12)"},"dimensions":{"minHeight":"100%"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group at-product-card has-border-color" style="border-color:rgba(255,255,255,0.12);border-width:1px;border-radius:0.25rem;min-height:100%;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"textColor":"primary-fixed-dim","style":{"typography":{"fontSize":"2.5rem","lineHeight":"1"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}}} -->
-<p class="has-primary-fixed-dim-color has-text-color" style="margin-bottom:var(--wp--preset--spacing--20);font-size:2.5rem;line-height:1"><span class="material-symbols-outlined">home_work</span></p>
+<p class="has-custom-font-size has-primary-fixed-dim-color has-text-color" style="margin-bottom:var(--wp--preset--spacing--20);font-size:2.5rem;line-height:1"><span class="material-symbols-outlined">home_work</span></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"}},"fontSize":"headline-md","fontFamily":"headline","className":"wp-block-heading"} -->

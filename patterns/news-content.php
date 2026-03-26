@@ -16,7 +16,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.6875rem","fontWeight":"700","letterSpacing":"0.08em","textTransform":"uppercase"}},"textColor":"secondary","fontFamily":"label"} -->
-<p class="has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Markets</p>
+<p class="has-custom-font-size has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Markets</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline","className":"wp-block-heading"} -->
@@ -36,7 +36,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.6875rem","fontWeight":"700","letterSpacing":"0.08em","textTransform":"uppercase"}},"textColor":"secondary","fontFamily":"label"} -->
-<p class="has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Real Estate</p>
+<p class="has-custom-font-size has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Real Estate</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline","className":"wp-block-heading"} -->
@@ -57,7 +57,7 @@
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.6875rem","fontWeight":"700","letterSpacing":"0.08em","textTransform":"uppercase"}},"textColor":"secondary","fontFamily":"label"} -->
-<p class="has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Macro Outlook</p>
+<p class="has-custom-font-size has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Macro Outlook</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"textColor":"primary","fontSize":"headline-sm","fontFamily":"headline","className":"wp-block-heading"} -->
@@ -82,7 +82,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.6875rem","fontWeight":"700","letterSpacing":"0.08em","textTransform":"uppercase"}},"textColor":"secondary","fontFamily":"label"} -->
-<p class="has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Wealth Management</p>
+<p class="has-custom-font-size has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Wealth Management</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline","className":"wp-block-heading"} -->
@@ -102,7 +102,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.6875rem","fontWeight":"700","letterSpacing":"0.08em","textTransform":"uppercase"}},"textColor":"secondary","fontFamily":"label"} -->
-<p class="has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Private Banking</p>
+<p class="has-custom-font-size has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Private Banking</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline","className":"wp-block-heading"} -->
@@ -190,7 +190,7 @@
 
 <!-- wp:group {"backgroundColor":"surface-container","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|30","margin":{"bottom":"var:preset|spacing|50"}},"border":{"radius":"0.25rem"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-surface-container-background-color has-background" style="border-radius:0.25rem;margin-bottom:var(--wp--preset--spacing--50);padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"style":{"typography":{"fontSize":"2rem"}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color" style="font-size:2rem">&#x2709;</p>
+<p class="has-custom-font-size has-secondary-color has-text-color" style="font-size:2rem">&#x2709;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":4,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline","className":"wp-block-heading"} -->

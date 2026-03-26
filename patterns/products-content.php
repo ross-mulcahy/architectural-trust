@@ -95,7 +95,7 @@
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|60"},"margin":{"bottom":"var:preset|spacing|80"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"width":"50%","verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.1em","textTransform":"uppercase"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"textColor":"secondary","fontFamily":"label"} -->
-<p class="has-secondary-color has-text-color has-label-font-family" style="margin-bottom:var(--wp--preset--spacing--20);font-size:0.75rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">The Institutional Edge</p>
+<p class="has-custom-font-size has-secondary-color has-text-color has-label-font-family" style="margin-bottom:var(--wp--preset--spacing--20);font-size:0.75rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">The Institutional Edge</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"style":{"typography":{"fontWeight":"800","letterSpacing":"-0.03em"},"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"textColor":"primary","fontSize":"headline-lg","fontFamily":"headline","className":"wp-block-heading"} -->
@@ -104,7 +104,7 @@
 
 <!-- wp:group {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontSize":"2rem"}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color" style="font-size:2rem">&#9670;</p>
+<p class="has-custom-font-size has-secondary-color has-text-color" style="font-size:2rem">&#9670;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"constrained"}} -->
@@ -120,7 +120,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontSize":"2rem"}},"textColor":"secondary"} -->
-<p class="has-secondary-color has-text-color" style="font-size:2rem">&#9670;</p>
+<p class="has-custom-font-size has-secondary-color has-text-color" style="font-size:2rem">&#9670;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"constrained"}} -->
