@@ -33,7 +33,7 @@
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":true,"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|40"}},"border":{"bottom":{"width":"1px","color":"var:preset|color|outline-variant","style":"solid"}},"spacing":{"padding":{"bottom":"var:preset|spacing|40"}}}} -->
 <div class="wp-block-columns is-stacked-on-mobile" style="border-bottom-color:var(--wp--preset--color--outline-variant);border-bottom-style:solid;border-bottom-width:1px;padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:column {"width":"128px"} -->
 <div class="wp-block-column" style="flex-basis:128px"><!-- wp:image {"width":"128px","height":"128px","sizeSlug":"full","style":{"border":{"radius":"0.25rem"}}} -->
-<figure class="wp-block-image size-full has-custom-border"><img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80" alt="Market analysis chart" style="border-radius:0.25rem;width:128px;height:128px;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80" alt="Market analysis chart" style="border-radius:0.25rem;width:128px;height:128px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -55,7 +55,7 @@
 <!-- wp:columns {"isStackedOnMobile":true,"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|40"}},"border":{"bottom":{"width":"1px","color":"var:preset|color|outline-variant","style":"solid"}},"spacing":{"padding":{"bottom":"var:preset|spacing|40"}}}} -->
 <div class="wp-block-columns is-stacked-on-mobile" style="border-bottom-color:var(--wp--preset--color--outline-variant);border-bottom-style:solid;border-bottom-width:1px;padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:column {"width":"128px"} -->
 <div class="wp-block-column" style="flex-basis:128px"><!-- wp:image {"width":"128px","height":"128px","sizeSlug":"full","style":{"border":{"radius":"0.25rem"}}} -->
-<figure class="wp-block-image size-full has-custom-border"><img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80" alt="Digital banking dashboard" style="border-radius:0.25rem;width:128px;height:128px;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80" alt="Digital banking dashboard" style="border-radius:0.25rem;width:128px;height:128px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -77,7 +77,7 @@
 <!-- wp:columns {"isStackedOnMobile":true,"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|40"}}}} -->
 <div class="wp-block-columns is-stacked-on-mobile"><!-- wp:column {"width":"128px"} -->
 <div class="wp-block-column" style="flex-basis:128px"><!-- wp:image {"width":"128px","height":"128px","sizeSlug":"full","style":{"border":{"radius":"0.25rem"}}} -->
-<figure class="wp-block-image size-full has-custom-border"><img src="https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=1200&q=80" alt="Modern architecture building" style="border-radius:0.25rem;width:128px;height:128px;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=1200&q=80" alt="Modern architecture building" style="border-radius:0.25rem;width:128px;height:128px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
