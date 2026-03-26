@@ -308,7 +308,7 @@
 	},
 	"styles": {
 		"spacing": {
-			"blockGap": "0",
+			"blockGap": "var:preset|spacing|30",
 			"padding": {
 				"top": "0",
 				"right": "0",
