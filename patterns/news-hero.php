@@ -12,7 +12,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":1,"style":{"typography":{"fontWeight":"800","letterSpacing":"-0.04em"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}},"color":{"text":"#ffffff"}},"fontSize":"display-md","fontFamily":"headline","className":"wp-block-heading"} -->
-<h1 class="wp-block-heading has-headline-font-family has-display-md-font-size" style="color:#ffffff;margin-bottom:var(--wp--preset--spacing--30);font-weight:800;letter-spacing:-0.04em">The Impact of Central Bank Pivot on Emerging Markets</h1>
+<h1 class="wp-block-heading has-text-color has-headline-font-family has-display-md-font-size" style="color:#ffffff;margin-bottom:var(--wp--preset--spacing--30);font-weight:800;letter-spacing:-0.04em">The Impact of Central Bank Pivot on Emerging Markets</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}},"color":{"text":"rgba(255,255,255,0.8)"}},"fontSize":"body-lg"} -->
