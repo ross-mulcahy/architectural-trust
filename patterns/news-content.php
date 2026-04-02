@@ -11,7 +11,7 @@
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|50"},"margin":{"bottom":"var:preset|spacing|60"}}}} -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","style":{"border":{"radius":"0.25rem"},"aspectRatio":"16/9","spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","aspectRatio":"16/9","scale":"cover","style":{"border":{"radius":"0.25rem"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
 <figure class="wp-block-image size-full has-custom-border" style="margin-bottom:var(--wp--preset--spacing--30)"><img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80" alt="Financial data screens" style="border-radius:0.25rem;aspect-ratio:16/9;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
@@ -19,7 +19,7 @@
 <p class="has-custom-font-size has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Markets</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline","className":"wp-block-heading"} -->
+<!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline"} -->
 <h3 class="wp-block-heading has-primary-color has-text-color has-title-lg-font-size has-headline-font-family" style="margin-bottom:var(--wp--preset--spacing--10);font-weight:700;letter-spacing:-0.02em">Treasury Yields Signal Shift in Risk Appetite</h3>
 <!-- /wp:heading -->
 
@@ -31,7 +31,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","style":{"border":{"radius":"0.25rem"},"aspectRatio":"16/9","spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","aspectRatio":"16/9","scale":"cover","style":{"border":{"radius":"0.25rem"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
 <figure class="wp-block-image size-full has-custom-border" style="margin-bottom:var(--wp--preset--spacing--30)"><img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80" alt="Glass skyscraper" style="border-radius:0.25rem;aspect-ratio:16/9;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
@@ -39,7 +39,7 @@
 <p class="has-custom-font-size has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Real Estate</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline","className":"wp-block-heading"} -->
+<!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline"} -->
 <h3 class="wp-block-heading has-primary-color has-text-color has-title-lg-font-size has-headline-font-family" style="margin-bottom:var(--wp--preset--spacing--10);font-weight:700;letter-spacing:-0.02em">Commercial Property Valuations Stabilize in Q1</h3>
 <!-- /wp:heading -->
 
@@ -60,7 +60,7 @@
 <p class="has-custom-font-size has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Macro Outlook</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"textColor":"primary","fontSize":"headline-sm","fontFamily":"headline","className":"wp-block-heading"} -->
+<!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"textColor":"primary","fontSize":"headline-sm","fontFamily":"headline"} -->
 <h3 class="wp-block-heading has-primary-color has-text-color has-headline-sm-font-size has-headline-font-family" style="margin-bottom:var(--wp--preset--spacing--20);font-weight:700;letter-spacing:-0.02em">Global Supply Chain Realignment Creates New Investment Corridors</h3>
 <!-- /wp:heading -->
 
@@ -77,7 +77,7 @@
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","style":{"border":{"radius":"0.25rem"},"aspectRatio":"16/9","spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","aspectRatio":"16/9","scale":"cover","style":{"border":{"radius":"0.25rem"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
 <figure class="wp-block-image size-full has-custom-border" style="margin-bottom:var(--wp--preset--spacing--30)"><img src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&q=80" alt="Professional in office lobby" style="border-radius:0.25rem;aspect-ratio:16/9;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
@@ -85,7 +85,7 @@
 <p class="has-custom-font-size has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Wealth Management</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline","className":"wp-block-heading"} -->
+<!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline"} -->
 <h3 class="wp-block-heading has-primary-color has-text-color has-title-lg-font-size has-headline-font-family" style="margin-bottom:var(--wp--preset--spacing--10);font-weight:700;letter-spacing:-0.02em">Tax-Loss Harvesting Strategies for 2026</h3>
 <!-- /wp:heading -->
 
@@ -97,7 +97,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","style":{"border":{"radius":"0.25rem"},"aspectRatio":"16/9","spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","aspectRatio":"16/9","scale":"cover","style":{"border":{"radius":"0.25rem"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
 <figure class="wp-block-image size-full has-custom-border" style="margin-bottom:var(--wp--preset--spacing--30)"><img src="https://images.unsplash.com/photo-1560520653-9e0e4c89eb11?w=800&q=80" alt="Luxury property" style="border-radius:0.25rem;aspect-ratio:16/9;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
@@ -105,7 +105,7 @@
 <p class="has-custom-font-size has-secondary-color has-text-color has-label-font-family" style="font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Private Banking</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline","className":"wp-block-heading"} -->
+<!-- wp:heading {"level":3,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"},"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline"} -->
 <h3 class="wp-block-heading has-primary-color has-text-color has-title-lg-font-size has-headline-font-family" style="margin-bottom:var(--wp--preset--spacing--10);font-weight:700;letter-spacing:-0.02em">Multi-Generational Wealth Transfer Planning</h3>
 <!-- /wp:heading -->
 
@@ -119,7 +119,7 @@
 
 <!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:group {"backgroundColor":"primary","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|30","margin":{"bottom":"var:preset|spacing|50"}},"border":{"radius":"0.25rem"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-primary-background-color has-background" style="border-radius:0.25rem;margin-bottom:var(--wp--preset--spacing--50);padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:heading {"level":4,"style":{"typography":{"fontWeight":"700","letterSpacing":"0.08em","textTransform":"uppercase","fontSize":"0.75rem"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}},"textColor":"primary-fixed-dim","fontFamily":"label","className":"wp-block-heading"} -->
+<div class="wp-block-group has-primary-background-color has-background" style="border-radius:0.25rem;margin-bottom:var(--wp--preset--spacing--50);padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:heading {"level":4,"style":{"typography":{"fontWeight":"700","letterSpacing":"0.08em","textTransform":"uppercase","fontSize":"0.75rem"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}},"textColor":"primary-fixed-dim","fontFamily":"label"} -->
 <h4 class="wp-block-heading has-primary-fixed-dim-color has-text-color has-label-font-family" style="margin-bottom:var(--wp--preset--spacing--30);font-size:0.75rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Market Snapshot</h4>
 <!-- /wp:heading -->
 
@@ -193,7 +193,7 @@
 <p class="has-custom-font-size has-secondary-color has-text-color" style="font-size:2rem">&#x2709;</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":4,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline","className":"wp-block-heading"} -->
+<!-- wp:heading {"level":4,"style":{"typography":{"fontWeight":"700","letterSpacing":"-0.02em"}},"textColor":"primary","fontSize":"title-lg","fontFamily":"headline"} -->
 <h4 class="wp-block-heading has-primary-color has-text-color has-title-lg-font-size has-headline-font-family" style="font-weight:700;letter-spacing:-0.02em">Intelligence Weekly</h4>
 <!-- /wp:heading -->
 
@@ -209,7 +209,7 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"className":"at-border-left-secondary","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group at-border-left-secondary" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":5,"style":{"typography":{"fontWeight":"700","letterSpacing":"0.08em","textTransform":"uppercase","fontSize":"0.6875rem"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"textColor":"on-surface-variant","fontFamily":"label","className":"wp-block-heading"} -->
+<div class="wp-block-group at-border-left-secondary" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":5,"style":{"typography":{"fontWeight":"700","letterSpacing":"0.08em","textTransform":"uppercase","fontSize":"0.6875rem"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"textColor":"on-surface-variant","fontFamily":"label"} -->
 <h5 class="wp-block-heading has-on-surface-variant-color has-text-color has-label-font-family" style="margin-bottom:var(--wp--preset--spacing--20);font-size:0.6875rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Trending</h5>
 <!-- /wp:heading -->
 

@@ -11,7 +11,7 @@
 <p class="has-custom-font-size has-white-color has-text-color has-background has-link-color has-label-font-family" style="border-radius:0.125rem;background-color:var(--wp--preset--color--secondary);margin-bottom:var(--wp--preset--spacing--30);font-size:0.6875rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">Focus Analysis</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":1,"style":{"typography":{"fontWeight":"800","letterSpacing":"-0.04em"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}},"color":{"text":"#ffffff"}},"fontSize":"display-md","fontFamily":"headline","className":"wp-block-heading"} -->
+<!-- wp:heading {"level":1,"style":{"typography":{"fontWeight":"800","letterSpacing":"-0.04em"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}},"color":{"text":"#ffffff"}},"fontSize":"display-md","fontFamily":"headline"} -->
 <h1 class="wp-block-heading has-text-color has-headline-font-family has-display-md-font-size" style="color:#ffffff;margin-bottom:var(--wp--preset--spacing--30);font-weight:800;letter-spacing:-0.04em">The Impact of Central Bank Pivot on Emerging Markets</h1>
 <!-- /wp:heading -->
 
