@@ -3,6 +3,9 @@
  * Title: Transfers & Bill Pay
  * Slug: architectural-trust/transfers-layout
  * Categories: architectural-trust
+ * Description: A demo layout for transfers, bill pay, and reassurance messaging on service pages.
+ * Keywords: transfers, payments, bills, service
+ * Viewport Width: 1440
  */
 ?>
 <!-- wp:group {"align":"full","backgroundColor":"surface","style":{"spacing":{"padding":{"left":"var:preset|spacing|50","right":"var:preset|spacing|50","top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"layout":{"type":"default"}} -->
@@ -67,7 +70,7 @@
 <!-- /wp:group -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary-container","textColor":"on-primary","width":100,"style":{"border":{"radius":"0.125rem"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary-container","textColor":"on-primary","className":"has-custom-width wp-block-button__width-100","style":{"border":{"radius":"0.125rem"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-on-primary-color has-primary-container-background-color has-text-color has-background wp-element-button" style="border-radius:0.125rem;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)">Review Transfer</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
@@ -151,7 +154,7 @@
 <!-- /wp:group -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"primary","width":100,"style":{"border":{"radius":"0.125rem"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"primary","className":"has-custom-width wp-block-button__width-100","style":{"border":{"radius":"0.125rem"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-primary-color has-white-background-color has-text-color has-background wp-element-button" style="border-radius:0.125rem;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)">Add New Biller</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
@@ -167,7 +170,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"secondary","fontSize":"label-md","fontFamily":"label"} -->
-<p class="has-secondary-color has-text-color has-label-md-font-size has-label-font-family"><a href="#">Learn about our security measures &rarr;</a></p>
+<p class="has-secondary-color has-text-color has-label-md-font-size has-label-font-family"><a href="<?php echo esc_url( home_url( '/login/' ) ); ?>">Learn about our security measures &rarr;</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>

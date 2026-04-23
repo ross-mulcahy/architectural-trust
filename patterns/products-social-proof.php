@@ -1,8 +1,11 @@
 <?php
 /**
- * Title: Social Proof
+ * Title: Trust Signals
  * Slug: architectural-trust/products-social-proof
  * Categories: architectural-trust-products
+ * Description: A reusable trust-strip pattern for service claims, support promises, or reassurance messaging.
+ * Keywords: trust, service, support, security
+ * Viewport Width: 1440
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"top":{"width":"1px","color":"var:preset|color|outline-variant"},"bottom":{"width":"1px","color":"var:preset|color|outline-variant"}}},"layout":{"type":"constrained","contentSize":"1280px"}} -->
@@ -13,7 +16,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontWeight":"600","letterSpacing":"0.08em","textTransform":"uppercase"}},"textColor":"on-surface-variant","fontSize":"label-md","fontFamily":"label"} -->
-<p class="has-on-surface-variant-color has-text-color has-label-md-font-size has-label-font-family" style="font-weight:600;letter-spacing:0.08em;text-transform:uppercase">Member FDIC</p>
+<p class="has-on-surface-variant-color has-text-color has-label-md-font-size has-label-font-family" style="font-weight:600;letter-spacing:0.08em;text-transform:uppercase">Relationship-Led Guidance</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -23,7 +26,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontWeight":"600","letterSpacing":"0.08em","textTransform":"uppercase"}},"textColor":"on-surface-variant","fontSize":"label-md","fontFamily":"label"} -->
-<p class="has-on-surface-variant-color has-text-color has-label-md-font-size has-label-font-family" style="font-weight:600;letter-spacing:0.08em;text-transform:uppercase">Equal Housing Lender</p>
+<p class="has-on-surface-variant-color has-text-color has-label-md-font-size has-label-font-family" style="font-weight:600;letter-spacing:0.08em;text-transform:uppercase">Flexible Onboarding Paths</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -33,7 +36,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontWeight":"600","letterSpacing":"0.08em","textTransform":"uppercase"}},"textColor":"on-surface-variant","fontSize":"label-md","fontFamily":"label"} -->
-<p class="has-on-surface-variant-color has-text-color has-label-md-font-size has-label-font-family" style="font-weight:600;letter-spacing:0.08em;text-transform:uppercase">SEC Registered</p>
+<p class="has-on-surface-variant-color has-text-color has-label-md-font-size has-label-font-family" style="font-weight:600;letter-spacing:0.08em;text-transform:uppercase">Transparent Service Model</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -43,7 +46,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontWeight":"600","letterSpacing":"0.08em","textTransform":"uppercase"}},"textColor":"on-surface-variant","fontSize":"label-md","fontFamily":"label"} -->
-<p class="has-on-surface-variant-color has-text-color has-label-md-font-size has-label-font-family" style="font-weight:600;letter-spacing:0.08em;text-transform:uppercase">Vault Certified</p>
+<p class="has-on-surface-variant-color has-text-color has-label-md-font-size has-label-font-family" style="font-weight:600;letter-spacing:0.08em;text-transform:uppercase">Security-First Access</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>

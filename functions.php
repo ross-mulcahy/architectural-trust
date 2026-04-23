@@ -57,6 +57,10 @@ function architectural_trust_register_pattern_categories() {
 		'architectural-trust-news',
 		array( 'label' => __( 'News & Intelligence', 'architectural-trust' ) )
 	);
+	register_block_pattern_category(
+		'architectural-trust-page-starters',
+		array( 'label' => __( 'Page Starters', 'architectural-trust' ) )
+	);
 }
 add_action( 'init', 'architectural_trust_register_pattern_categories' );
 

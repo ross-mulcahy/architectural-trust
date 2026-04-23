@@ -3,6 +3,9 @@
  * Title: News Featured Hero
  * Slug: architectural-trust/news-hero
  * Categories: architectural-trust-news
+ * Description: A dramatic cover-style hero for editorial landing pages and article hubs.
+ * Keywords: news, editorial, hero, cover
+ * Viewport Width: 1440
  */
 ?>
 <!-- wp:cover {"url":"https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80","dimRatio":60,"overlayColor":"primary","isUserOverlayColor":true,"minHeight":500,"minHeightUnit":"px","contentPosition":"bottom left","align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}}} -->

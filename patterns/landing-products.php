@@ -3,6 +3,9 @@
  * Title: Featured Products
  * Slug: architectural-trust/landing-products
  * Categories: architectural-trust-landing
+ * Description: A dark product showcase with three premium cards for homepage or campaign use.
+ * Keywords: products, cards, offers, homepage
+ * Viewport Width: 1440
  */
 ?>
 <!-- wp:group {"align":"full","backgroundColor":"primary","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}},"layout":{"type":"default"}} -->

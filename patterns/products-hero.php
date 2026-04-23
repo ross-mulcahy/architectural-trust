@@ -3,6 +3,9 @@
  * Title: Products Hero
  * Slug: architectural-trust/products-hero
  * Categories: architectural-trust-products
+ * Description: A product landing hero with large editorial heading and two CTA buttons.
+ * Keywords: product, hero, lending, campaign
+ * Viewport Width: 1440
  */
 ?>
 <!-- wp:cover {"url":"https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80","dimRatio":80,"overlayColor":"surface","isUserOverlayColor":true,"minHeight":870,"minHeightUnit":"px","className":"hero-overlay-surface","align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}}} -->

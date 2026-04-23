@@ -194,6 +194,35 @@ body {
 	letter-spacing: -0.02em;
 }
 
+.at-footer-page-list,
+.at-footer-page-list ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.at-footer-page-list li {
+	font-size: 0.75rem;
+	margin-bottom: var(--wp--preset--spacing--20);
+}
+
+.at-footer-page-list a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.at-footer-page-list--inline ul {
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	gap: var(--wp--preset--spacing--40);
+	justify-content: center;
+}
+
+.at-footer-page-list--inline li {
+	margin-bottom: 0;
+}
+
 /* ---------- Article Typography ---------- */
 .at-article-body p {
 	font-size: 1.0625rem;

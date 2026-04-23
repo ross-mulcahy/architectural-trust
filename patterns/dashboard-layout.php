@@ -3,6 +3,9 @@
  * Title: Account Dashboard
  * Slug: architectural-trust/dashboard-layout
  * Categories: architectural-trust
+ * Description: A demo dashboard layout for account summaries, balances, and portfolio snapshots.
+ * Keywords: dashboard, account, balances, portal
+ * Viewport Width: 1440
  */
 ?>
 <!-- wp:group {"align":"full","backgroundColor":"surface","style":{"spacing":{"padding":{"left":"var:preset|spacing|50","right":"var:preset|spacing|50","top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"layout":{"type":"default"}} -->
@@ -44,7 +47,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"secondary","fontSize":"label-md","fontFamily":"label"} -->
-<p class="has-secondary-color has-text-color has-label-md-font-size has-label-font-family"><a href="#">Manage Accounts</a></p>
+<p class="has-secondary-color has-text-color has-label-md-font-size has-label-font-family"><a href="<?php echo esc_url( home_url( '/products/' ) ); ?>">Manage Accounts</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -140,7 +143,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"secondary","fontSize":"label-md","fontFamily":"label"} -->
-<p class="has-secondary-color has-text-color has-label-md-font-size has-label-font-family"><a href="#">View All</a></p>
+<p class="has-secondary-color has-text-color has-label-md-font-size has-label-font-family"><a href="<?php echo esc_url( home_url( '/news-intelligence/' ) ); ?>">View All</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 

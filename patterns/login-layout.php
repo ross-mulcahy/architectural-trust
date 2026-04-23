@@ -3,6 +3,9 @@
  * Title: Login Layout
  * Slug: architectural-trust/login-layout
  * Categories: architectural-trust
+ * Description: A polished sign-in page layout for demo environments and client portal previews.
+ * Keywords: login, sign in, portal, access
+ * Viewport Width: 1440
  */
 ?>
 <!-- wp:group {"align":"full","backgroundColor":"surface","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"dimensions":{"minHeight":"calc(100vh - 80px)"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
@@ -86,7 +89,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary-container","textColor":"on-primary","width":100,"style":{"border":{"radius":"0.125rem"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary-container","textColor":"on-primary","className":"has-custom-width wp-block-button__width-100","style":{"border":{"radius":"0.125rem"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-on-primary-color has-primary-container-background-color has-text-color has-background wp-element-button" style="border-radius:0.125rem;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)">Sign In</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
@@ -104,7 +107,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"transparent","textColor":"primary","width":100,"style":{"border":{"radius":"0.125rem","width":"1px","color":"var:preset|color|outline-variant"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"transparent","textColor":"primary","className":"has-custom-width wp-block-button__width-100","style":{"border":{"radius":"0.125rem","width":"1px","color":"var:preset|color|outline-variant"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-primary-color has-transparent-background-color has-text-color has-background has-border-color wp-element-button" style="border-color:var(--wp--preset--color--outline-variant);border-width:1px;border-radius:0.125rem;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)">Enroll Now</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>

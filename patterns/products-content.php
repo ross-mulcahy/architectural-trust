@@ -3,6 +3,9 @@
  * Title: Products Content
  * Slug: architectural-trust/products-content
  * Categories: architectural-trust-products
+ * Description: A long-form product detail section with rates, benefits, testimonial, and CTA.
+ * Keywords: product, rates, detail, testimonial
+ * Viewport Width: 1440
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}},"layout":{"type":"constrained","contentSize":"1280px"}} -->

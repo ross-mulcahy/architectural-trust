@@ -3,6 +3,9 @@
  * Title: Landing Hero
  * Slug: architectural-trust/landing-hero
  * Categories: architectural-trust-landing
+ * Description: A homepage-ready hero with headline, supporting copy, CTAs, and a secure-access panel.
+ * Keywords: hero, homepage, marketing, banner
+ * Viewport Width: 1440
  */
 ?>
 <!-- wp:cover {"url":"https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1200&q=80","dimRatio":60,"overlayColor":"primary","isUserOverlayColor":true,"minHeight":870,"minHeightUnit":"px","className":"at-hero-cover","align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}}} -->
@@ -50,7 +53,7 @@
 <!-- /wp:group -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary-container","textColor":"on-primary","width":100,"style":{"border":{"radius":"0.125rem"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary-container","textColor":"on-primary","className":"has-custom-width wp-block-button__width-100","style":{"border":{"radius":"0.125rem"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-on-primary-color has-primary-container-background-color has-text-color has-background wp-element-button" style="border-radius:0.125rem;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)">Sign In Securely</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->

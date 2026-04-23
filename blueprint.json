@@ -29,7 +29,7 @@
 		},
 		{
 			"step": "runPHP",
-			"code": "<?php\nrequire '/wordpress/wp-load.php';\n$front = wp_insert_post(array('post_title'=>'Home','post_name'=>'home','post_status'=>'publish','post_type'=>'page'));\nupdate_option('page_on_front', $front);\nwp_insert_post(array('post_title'=>'Products','post_name'=>'products','post_status'=>'publish','post_type'=>'page','meta_input'=>array('_wp_page_template'=>'page-products')));\nwp_insert_post(array('post_title'=>'News & Intelligence','post_name'=>'news-intelligence','post_status'=>'publish','post_type'=>'page','meta_input'=>array('_wp_page_template'=>'page-news')));\nwp_insert_post(array('post_title'=>'Login','post_name'=>'login','post_status'=>'publish','post_type'=>'page','meta_input'=>array('_wp_page_template'=>'page-login')));\nwp_insert_post(array('post_title'=>'Account Dashboard','post_name'=>'dashboard','post_status'=>'publish','post_type'=>'page','meta_input'=>array('_wp_page_template'=>'page-dashboard')));\nwp_insert_post(array('post_title'=>'Transfers & Bill Pay','post_name'=>'transfers','post_status'=>'publish','post_type'=>'page','meta_input'=>array('_wp_page_template'=>'page-transfers')));\n$blog = wp_insert_post(array('post_title'=>'Blog','post_name'=>'blog','post_status'=>'publish','post_type'=>'page'));\nupdate_option('page_for_posts', $blog);\nwp_delete_post(2, true);\necho 'Pages created';\n?>"
+			"code": "<?php\nrequire '/wordpress/wp-load.php';\n$seed_file = get_theme_file_path( 'demo/seed-demo-content.php' );\nif ( file_exists( $seed_file ) ) {\n\trequire_once $seed_file;\n\tarchitectural_trust_seed_demo_content();\n\techo 'Demo content created';\n}\n?>"
 		}
 	]
 }

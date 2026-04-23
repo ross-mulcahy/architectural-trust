@@ -3,6 +3,9 @@
  * Title: The Distinction
  * Slug: architectural-trust/landing-distinction
  * Categories: architectural-trust-landing
+ * Description: A feature-rich credibility section with editorial cards, stats, and service differentiators.
+ * Keywords: feature, credibility, stats, services
+ * Viewport Width: 1440
  */
 ?>
 <!-- wp:group {"align":"full","backgroundColor":"surface","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}},"layout":{"type":"default"}} -->
