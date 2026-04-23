@@ -14,7 +14,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * Get raw block markup from one or more pattern files.
+ * Render block markup from one or more pattern files.
  *
  * @param string|array $files Pattern filename or list of filenames.
  * @return string
@@ -30,13 +30,15 @@ function architectural_trust_get_pattern_markup( $files ) {
 			continue;
 		}
 
-		$contents = file_get_contents( $path );
+		ob_start();
+		include $path;
+		$contents = ob_get_clean();
 
-		if ( false === $contents ) {
+		if ( false === $contents || '' === trim( $contents ) ) {
 			continue;
 		}
 
-		$markup[] = preg_replace( '/^<\?php[\s\S]*?\?>\s*/', '', $contents );
+		$markup[] = trim( $contents );
 	}
 
 	return implode( "\n\n", array_filter( $markup ) );
