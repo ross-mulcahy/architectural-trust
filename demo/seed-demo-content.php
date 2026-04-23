@@ -83,7 +83,9 @@ function architectural_trust_seed_demo_page( $page_config ) {
  * @return void
  */
 function architectural_trust_seed_featured_image( $post_id, $image_url ) {
-	if ( empty( $image_url ) || has_post_thumbnail( $post_id ) ) {
+	$should_seed_image = apply_filters( 'architectural_trust_demo_seed_featured_images', true, $post_id, $image_url );
+
+	if ( empty( $image_url ) || has_post_thumbnail( $post_id ) || ! $should_seed_image ) {
 		return;
 	}
 

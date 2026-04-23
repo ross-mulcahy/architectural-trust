@@ -10,10 +10,28 @@ Use the importer only when you want to seed a local/staging/demo site with:
 
 ## WP-CLI
 
-From the WordPress root:
+For local/full WordPress environments where `wp eval-file` is acceptable:
 
 ```bash
 wp eval-file wp-content/themes/architectural-trust/demo/import-demo-content.php
+```
+
+For WPVIP or other restricted environments, use the companion plugin command instead:
+
+```bash
+wp architectural-trust seed-demo
+```
+
+With VIP-CLI that becomes:
+
+```bash
+vip @your-app.develop -- wp architectural-trust seed-demo
+```
+
+Optional:
+
+```bash
+wp architectural-trust seed-demo --skip-images
 ```
 
 ## What It Does
@@ -29,4 +47,5 @@ wp eval-file wp-content/themes/architectural-trust/demo/import-demo-content.php
 
 - This importer is intended for demo/staging use, not production content migration.
 - Because it updates pages by slug, it is safe to rerun on the same demo site.
+- The preferred approach on WPVIP is the companion plugin command rather than `wp eval-file`.
 - After import, review navigation, footer/social links, and legal/disclosure copy in the Site Editor before showing the demo externally.
